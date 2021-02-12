@@ -1,7 +1,7 @@
 # Flutter Awesome Travel UI
 
-A new Flutter project where I created a travel UI.
-Screenshot
+1. A new Flutter project where I created a travel UI.
+2. Screenshot
 
 ![](Screenshots/travelUI.png)
 
