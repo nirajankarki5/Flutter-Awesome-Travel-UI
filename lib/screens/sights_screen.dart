@@ -260,7 +260,7 @@ class _SightsScreenState extends State<SightsScreen> {
             ),
           ),
           GestureDetector(
-            onTap: () {},
+            onTap: () {print("pressed");},
             child: Container(
               padding: EdgeInsets.all(10.0),
               height: 78.0,
