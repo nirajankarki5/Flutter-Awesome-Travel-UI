@@ -18,7 +18,7 @@ class CustomTabBar extends StatelessWidget {
       decoration: BoxDecoration(
           color: Colors.white,
           borderRadius: BorderRadius.only(
-              topLeft: Radius.circular(35.0), topRight: Radius.circular(35.0))),
+              topLeft: Radius.circular(20.0), topRight: Radius.circular(20.0))),
       height: 80.0,
       child: TabBar(
         indicator: BoxDecoration(
